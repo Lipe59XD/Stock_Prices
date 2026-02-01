@@ -62,3 +62,7 @@ create a file  `.env`:
 API_KEY=''
 DATABASE_URL = ""
 ```
+
+## How to generate the API key:
+
+enter in the page "https://www.alphavantage.co/support/#" and claim your free API key
