@@ -13,7 +13,7 @@ Python, Streamlit, Plotly e Alpha Vantage API.
 - Seleção de múltiplos ativos
 - Cache inteligente para reduzir chamadas à API
 
-## 🛠 Tecnologias
+##  Tecnologias
 
 - Python 3.11
 - Streamlit
@@ -21,7 +21,7 @@ Python, Streamlit, Plotly e Alpha Vantage API.
 - Plotly
 - Alpha Vantage API
 - 
-## 🗂 Estrutura do Projeto
+##  Estrutura do Projeto
 ```text
 market_dashboard/
 ├── services/                    
@@ -35,7 +35,7 @@ market_dashboard/
 ├── app.py
 └──requirements.txt             # bibliotecas instaladas
 ```
-## ▶️ Como rodar o projeto
+##  Como rodar o projeto
 ```bash
 git clone https://github.com/Lipe59XD/Stock_Prices.git
 cd Stock_Prices
@@ -49,7 +49,6 @@ streamlit run app.py
 Muito importante pra API:
 
 ```md
-## 🔐 Variáveis de ambiente
 
 Crie um arquivo `.env`:
 
