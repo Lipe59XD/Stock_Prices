@@ -56,4 +56,7 @@ Crie um arquivo `.env`:
 API_KEY=''
 DATABASE_URL = ""
 ```
-  
+
+## Como gerar a chave da API:
+
+Entre na página "https://www.alphavantage.co/support/#" e gere sua chave da API
